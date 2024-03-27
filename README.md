@@ -4,7 +4,7 @@ Group 5
 
 ## Team Members:
 
-Emily McNeice    [!@ekmcneice](https://github.com/ekmcneice/MIST4610-Group-5)
+Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/MIST4610-Group-5)
 
 Warren Paintsil
 
