@@ -92,4 +92,5 @@ Member Communication: We communicate with our members through various channels, 
 ## Database Information
 
 Name of the database: ns_Sp24_47114_Group5
+
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
