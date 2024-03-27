@@ -18,7 +18,10 @@ Owen Goble
 
 ## Problem Description
 
-The task at hand is to create a relational database modeling a tennis club. The central entitiy of the model is the members because everything we do relates to them. The members are related to our membership, court usage, programs, events, etc. Our task is to accurately model the relationship between these entities and their relationships, to generate data to populate the model, and to provide querys that would be useful to managers. We are aiming to provide valuable insights to the managers about the Tennis club and its operations. 
+Our task is to develop a relational database system for a tennis club. The primary focus is on managing member information and club operations efficiently. This includes tracking memberships, court bookings, coaching schedules, and program registrations. The central entitiy of the model Members. The members are related to our membership, court usage, programs, events, etc. Our task is to accurately model the relationship between these entities and their relationships, to generate data to populate the model, and to provide querys that would be useful to managers. We are aiming to provide valuable insights to the managers about the Tennis club and its operations. 
+The database should accurately represent the club's structure and services, catering to members of skill levels. Additionally, it should support functions like generating reports, analyzing membership trends, and facilitating communication between staff and members.
+The ultimate goal is to create a practical database solution that streamlines day-to-day operations and provides valuable insights to club management for informed decision-making.
+
 
 ## Data Model
 
