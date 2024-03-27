@@ -10,7 +10,7 @@ Warren Paintsil
 
 Nathan Favors [@Nathanfavors](https://github.com/ekmcneice/MIST4610-Group-5)
 
-Duncan Zeller   @duncanzeller
+Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/MIST4610-Group-5)
 
 Jessica Hall @jessicahall57
 
