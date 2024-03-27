@@ -80,12 +80,17 @@ Member Communication: We communicate with our members through various channels, 
 <img width="809" alt="query2" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002443/7b0ba59f-4587-4531-b3b0-c91a0ffeb9f6">
 
 8. Top Spending Clients (Simple) - This query displays the ID and name for each member who  has spent more on average than the total average amount using our various services. This can be useful for target marketing and incentives/ exclusive promotions offered by the club.
-9.  Analyzing Membership Status (Simple) - This query can help the manager send marketing and renewal offers to the emails of members whose memberships are not currently active. This can help bring in new members and restore old members to increase total revenue for the club.
+![Screenshot 2024-03-26 140114](https://github.com/ekmcneice/MIST4610-Group-5/assets/163003264/8cd73c50-33f2-4613-a879-896eaedf737d)
+
+10.  Analyzing Membership Status (Simple) - This query can help the manager send marketing and renewal offers to the emails of members whose memberships are not currently active. This can help bring in new members and restore old members to increase total revenue for the club.
+![Screenshot 2024-03-26 132148](https://github.com/ekmcneice/MIST4610-Group-5/assets/163003264/55c7a31c-49c5-42eb-adf3-fbaed33510eb)
 
 11.  Transaction Revenue Split (Simple) - This query helps break down the total amount of revenue gained for each transaction type charged to our clients. This is useful for the manager to analyze trends and make forecasts using these subtotals.
 ![Screenshot 2024-03-26 133011](https://github.com/ekmcneice/MIST4610-Group-5/assets/163003264/85df63c7-fba3-454e-995c-daf8792db72f)
 
-13.  Email Inbox (Simple) - This query displays the member name, subject, and message of their email as well as the date and time for the manager. This is useful for organization and staying on task with customer needs/ inquiries. 
+13.  Email Inbox (Simple) - This query displays the member name, subject, and message of their email as well as the date and time for the manager. This is useful for organization and staying on task with customer needs/ inquiries.
+![Screenshot 2024-03-26 134749](https://github.com/ekmcneice/MIST4610-Group-5/assets/163003264/fc5600a2-b678-40e1-aaea-e374294e5323)
+
 14. Identify the Membership Types of People that Participate in Events(Complex): This query helps the manager identify the membership types of those who are very involved with their membership as well as membership types that may not be involved as well. This is important because it allows the manager to see what these members may want and can potentially cater their packages toward these demands. 
 ![Screenshot 2024-03-26 140853](https://github.com/ekmcneice/MIST4610-Group-5/assets/150088958/a19d6b79-da41-4de7-a90e-41eea4a18e81)
 
