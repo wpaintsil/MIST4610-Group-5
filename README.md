@@ -1,4 +1,4 @@
-## Team 1 Mist 4610 Group Project 1
+## Team 5 Mist 4610 Group Project 1
 ## Team Name:
 47114 Group 5
 
