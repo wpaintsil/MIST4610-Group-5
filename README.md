@@ -69,17 +69,18 @@ Member Communication: We communicate with our members through various channels, 
 1. Analyzing Average Transaction Amount by Membership Type (Complex) - This query helps the manager understand the spending behavior of different membership types, allowing them to tailor marketing strategies, perks, and offerings to maximize revenue generation.
 <img width="798" alt="Screenshot 2024-03-27 at 10 27 12 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/366fbb0f-134a-499b-98c7-945ac6c3925e">
 
-2.  Analyzing Member Reservations (Complex) - This query can help the manager understand which members are utilizing the tennis courts the most and at what times. It provides insights into member activity, allowing the manager to optimize court scheduling and potentially identify trends for targeted promotions or adjustments in offerings. 
-3.  Managing Inventory (Complex) - This query can help the manager understand the frequency with which different items are being rented and when. It provides insight into what items are useful to carry or may not be necessary to carry.
+2.  Analyzing Member Reservations (Complex) - This query can help the manager understand which members are utilizing the tennis courts the most and at what times. It provides insights into member activity, allowing the manager to optimize court scheduling and potentially identify trends for targeted promotions or adjustments in offerings.
+    
+4.  Managing Inventory (Complex) - This query can help the manager understand the frequency with which different items are being rented and when. It provides insight into what items are useful to carry or may not be necessary to carry.
 <img width="1069" alt="Screenshot 2024-03-27 at 11 09 31 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/8b2de715-6787-4bf4-b6e5-9fbf9ac23eeb">
 
-4. Analyzing Revenue by Program Type (Complex): This query helps the manager understand the revenue generated from different types of programs hosted by the tennis club. It calculates the total revenue earned from each program type from Active Members who have signed up for the program, providing insights into which events contribute most to the club's income. This information can guide decisions on event planning, pricing strategies, and resource allocation.
+5. Analyzing Revenue by Program Type (Complex): This query helps the manager understand the revenue generated from different types of programs hosted by the tennis club. It calculates the total revenue earned from each program type from Active Members who have signed up for the program, providing insights into which events contribute most to the club's income. This information can guide decisions on event planning, pricing strategies, and resource allocation.
 <img width="749" alt="query4" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002443/b0386afa-0e4e-4e75-bfce-9f71ecba1eba">
 
 6. Analyzing Membership by Program Type (Complex): This query helps the manager understand the presence of nonactive or pending memberships within different types of programs hosted by the tennis club. This query also presents the schedule of these programs and the total members, so the manager can easily guide decisions on program scheduling in the future, understand member involvement, and adequately allocate resources.
 <img width="809" alt="query2" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002443/7b0ba59f-4587-4531-b3b0-c91a0ffeb9f6">
 
-8. Top Spending Clients (Simple) - This query displays the ID and name for each member who  has spent more on average than the total average amount using our various services. This can be useful for target marketing and incentives/ exclusive promotions offered by the club.
+8. Top Spending Clients (Simple) - This query displays the ID and name for each member who has spent more on average than the total average amount using our various services. This can be useful for target marketing and incentives/ exclusive promotions offered by the club.
 ![Screenshot 2024-03-26 140114](https://github.com/ekmcneice/MIST4610-Group-5/assets/163003264/8cd73c50-33f2-4613-a879-896eaedf737d)
 
 10.  Analyzing Membership Status (Simple) - This query can help the manager send marketing and renewal offers to the emails of members whose memberships are not currently active. This can help bring in new members and restore old members to increase total revenue for the club.
