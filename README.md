@@ -43,6 +43,7 @@ Billing and Payments: We handle membership fees, court reservations, coaching fe
 
 Member Communication: We communicate with our members through various channels, such as email newsletters, social media, and our club website. We may also have a mobile app for convenient access to club information and updates.
 
+<img width="625" alt="Screenshot 2024-03-27 at 1 25 29 PM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163003449/69526a99-2818-4747-971e-e748ff995fd7">
 
 
 ![Screenshot 2024-03-27 104723](https://github.com/ekmcneice/MIST4610-Group-5/assets/150088958/f53e4991-f900-438b-9638-bdb0061eebe9)
