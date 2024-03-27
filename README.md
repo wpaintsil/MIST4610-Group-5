@@ -7,9 +7,13 @@ Group 5
 Emily McNeice    @ekmcneice
 
 Warren Paintsil
+
 Nathan Favors
+
 Duncan Zeller   @duncanzeller
-Jessica Hall
+
+Jessica Hall @jessicahall57
+
 Owen Goble
 
 ## Problem Description
