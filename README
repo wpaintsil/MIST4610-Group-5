@@ -1,8 +1,9 @@
-Team 1 Mist 4610 Group Project 1
-Team Name:
+## Team 1 Mist 4610 Group Project 1
+## Team Name:
 Group 5
 
-Team Members:
+## Team Members:
+
 Emily McNeice    @ekmcneice
 Warren Paintsil
 Nathan Favors
@@ -16,6 +17,7 @@ Owen Goble
 
 
 ## Data Model
+
 Here's an overview of our business operations:
 Membership Management: We offer various membership options, including individual, family, and corporate memberships. Each membership type may have different access levels and privileges within the club.
 Court Reservation System: Members should be able to easily book tennis courts for their matches or practice sessions. We may also have provisions for non-members to book courts on a pay-per-use basis.
@@ -35,6 +37,7 @@ Member Communication: We communicate with our members through various channels, 
 
 
 ## Queries
+
 1. Analyzing Average Transaction Amount by Membership Type (Complex) - This query helps the manager understand the spending behavior of different membership types, allowing them to tailor marketing strategies, perks, and offerings to maximize revenue generation.
 2.  Analyzing Member Reservations (Complex) - This query can help the manager understand which members are utilizing the tennis courts the most and at what times. It provides insights into member activity, allowing the manager to optimize court scheduling and potentially identify trends for targeted promotions or adjustments in offerings. 
 3.  Managing Inventory (Complex) - This query can help the manager understand the frequency with which different items are being rented and when. It provides insight into what items are useful to carry or may not be necessary to carry. 
@@ -49,3 +52,6 @@ Member Communication: We communicate with our members through various channels, 
 
 
 ## Database Information
+
+Name of the database: ns_Sp24_47114_Group5
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
