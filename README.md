@@ -18,24 +18,27 @@ Owen Goble
 
 ## Problem Description
 
-
-
+The task at hand is to create a relational database modeling a tennis club. The central entitiy of the model is the members because everything we do relates to them. The members are related to our membership, court usage, programs, events, etc. Our task is to accurately model the relationship between these entities and their relationships, to generate data to populate the model, and to provide querys that would be useful to managers. We are aiming to provide valuable insights to the managers about the Tennis club and its operations. 
 
 ## Data Model
 
 Here's an overview of our business operations:
+
 Membership Management: We offer various membership options, including individual, family, and corporate memberships. Each membership type may have different access levels and privileges within the club.
+
 Court Reservation System: Members should be able to easily book tennis courts for their matches or practice sessions. We may also have provisions for non-members to book courts on a pay-per-use basis.
+
 Tennis Programs and Coaching: We provide tennis lessons and coaching sessions for players of all ages and skill levels. This includes group lessons, private coaching, and specialized training programs.
+
 Events and Tournaments: Our club hosts regular events, leagues, and tournaments throughout the year. This includes intra-club competitions, friendly matches, and larger-scale tournaments open to members and non-members alike.
+
 Pro Shop and Equipment Rental: We have a pro shop on-site offering tennis equipment, apparel, and accessories. Additionally, we may provide rental services for tennis racquets, balls, and other gear.
+
 Facilities Management: We maintain our tennis courts, clubhouse, locker rooms, and other amenities to ensure they are clean, safe, and well-equipped for our members and guests.
+
 Billing and Payments: We handle membership fees, court reservations, coaching fees, and other transactions through our billing system. This includes processing payments, issuing invoices, and managing membership renewals.
+
 Member Communication: We communicate with our members through various channels, such as email newsletters, social media, and our club website. We may also have a mobile app for convenient access to club information and updates.
-
-
-
-
 
 ## Data Dictionary
 
