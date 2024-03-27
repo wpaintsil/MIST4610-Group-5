@@ -8,7 +8,7 @@ Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/MIST4610-Group-5)
 
 Warren Paintsil
 
-Nathan Favors
+Nathan Favors [@Nathanfavors](https://github.com/ekmcneice/MIST4610-Group-5)
 
 Duncan Zeller   @duncanzeller
 
