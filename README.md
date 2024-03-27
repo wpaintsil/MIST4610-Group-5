@@ -25,7 +25,7 @@ The ultimate goal is to create a practical database solution that streamlines da
 
 ## Data Model
 
-Here's an overview of our business operations:
+Here's an overview of the Tennis Club Data Model:
 
 Membership Management: We offer various membership options, including individual, family, and corporate memberships. Each membership type may have different access levels and privileges within the club.
 
