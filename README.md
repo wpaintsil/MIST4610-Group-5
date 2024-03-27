@@ -6,7 +6,7 @@
 
 Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/MIST4610-Group-5)
 
-Warren Paintsil
+Warren Paintsil  [@wpaintsil](https://github.com/wpaintsil/MIST4610-Group-5)
 
 Nathan Favors [@Nathanfavors](https://github.com/ekmcneice/MIST4610-Group-5)
 
