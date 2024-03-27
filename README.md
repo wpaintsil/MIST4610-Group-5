@@ -46,8 +46,6 @@ Member Communication: We communicate with our members through various channels, 
 <img width="625" alt="Screenshot 2024-03-27 at 1 25 29 PM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163003449/69526a99-2818-4747-971e-e748ff995fd7">
 
 
-![Screenshot 2024-03-27 104723](https://github.com/ekmcneice/MIST4610-Group-5/assets/150088958/f53e4991-f900-438b-9638-bdb0061eebe9)
-
 ## Data Dictionary
 <img width="690" alt="Screenshot 2024-03-27 at 10 46 28 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/92cd0868-64a3-41db-8e6f-d3ec0c3ab44b">
 <img width="685" alt="Screenshot 2024-03-27 at 10 46 51 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/4d8e84eb-84f1-4660-9dff-6e35cc853360">
