@@ -53,6 +53,15 @@ Member Communication: We communicate with our members through various channels, 
 <img width="681" alt="Screenshot 2024-03-27 at 10 47 08 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/f27b8847-a95d-45fd-a6a5-615bf03009a3">
 <img width="677" alt="Screenshot 2024-03-27 at 10 47 22 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/8fc5e2eb-d107-406c-b181-c2aa610a9f39">
 <img width="684" alt="Screenshot 2024-03-27 at 10 47 34 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/674e8c94-9a19-4862-b962-53e13ab5acbe">
+<img width="673" alt="Screenshot 2024-03-27 at 10 52 18 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/8e4d05db-ad89-4e6a-8ca4-c4d56b5b182a">
+<img width="689" alt="Screenshot 2024-03-27 at 10 52 36 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/3dc438c5-b298-4439-9d39-60b65548393a">
+<img width="668" alt="Screenshot 2024-03-27 at 10 52 51 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/9e0d1284-f58c-42b7-837f-9627e527e71b">
+<img width="641" alt="Screenshot 2024-03-27 at 10 53 05 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/7f4f504f-a981-4a39-810b-9bed8dcf3480">
+<img width="688" alt="Screenshot 2024-03-27 at 10 53 19 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/50fd17ef-d16d-4957-84be-33cc5a739221">
+<img width="681" alt="Screenshot 2024-03-27 at 10 53 35 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/e2bbdc29-c333-414c-a731-034ab8a9d1de">
+<img width="715" alt="Screenshot 2024-03-27 at 10 54 26 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/cddc043a-bc6f-4c53-9401-ba23b8f57ef1">
+<img width="681" alt="Screenshot 2024-03-27 at 10 54 42 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/11efb3d3-ece3-46d9-84ba-2593e0a980cf">
+<img width="686" alt="Screenshot 2024-03-27 at 10 55 01 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/39bd18c6-8cfb-495b-bf87-ec00a1e116a9">
 
 
 
