@@ -67,6 +67,7 @@ Member Communication: We communicate with our members through various channels, 
 8.  Transaction Revenue Split (Simple) - This query helps break down the total amount of revenue gained for each transaction type charged to our clients. This is useful for the manager to analyze trends and make forecasts using these subtotals.
 9.  Email Inbox (Simple) - This query displays the member name, subject, and message of their email as well as the date and time for the manager. This is useful for organization and staying on task with customer needs/ inquiries. 
 10. Identify the Membership Types of People that Participate in Events(Complex): This query helps the manager identify the membership types of those who are very involved with their membership as well as membership types that may not be involved as well. This is important because it allows the manager to see what these members may want and can potentially cater their packages toward these demands. 
+![Screenshot 2024-03-26 140853](https://github.com/ekmcneice/MIST4610-Group-5/assets/150088958/a19d6b79-da41-4de7-a90e-41eea4a18e81)
 
 
 
