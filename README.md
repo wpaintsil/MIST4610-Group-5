@@ -5,6 +5,7 @@ Group 5
 ## Team Members:
 
 Emily McNeice    @ekmcneice
+
 Warren Paintsil
 Nathan Favors
 Duncan Zeller   @duncanzeller
